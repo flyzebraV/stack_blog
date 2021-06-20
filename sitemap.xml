@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vincentleezebra.github.io/zebrablog/post/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-06-19T11:19:17+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2021-06-19T11:19:17+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/%E5%90%8C%E6%80%81-%E5%8A%A0%E5%AF%8612-gsw/</loc>
+    <lastmod>2021-06-19T11:19:17+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/test/</loc>
     <lastmod>2021-05-19T11:19:17+08:00</lastmod>
   </url><url>
-    <loc>https://vincentleezebra.github.io/zebrablog/post/test/</loc>
-    <lastmod>2021-05-19T11:19:17+08:00</lastmod>
+    <loc>https://example.com/categories/</loc>
   </url><url>
-    <loc>https://vincentleezebra.github.io/zebrablog/</loc>
-    <lastmod>2021-05-19T11:19:17+08:00</lastmod>
-  </url><url>
-    <loc>https://vincentleezebra.github.io/zebrablog/categories/</loc>
-  </url><url>
-    <loc>https://vincentleezebra.github.io/zebrablog/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
